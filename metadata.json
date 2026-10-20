@@ -1,0 +1,6 @@
+{
+  "name": "एसके ई-रिक्शा ट्रांसपोर्ट सर्विसेज (SK E-Rickshaw)",
+  "description": "रहटाटोर, मानिकचौरी एवं बिलासपुर क्षेत्र में सुरक्षित, सस्ती और पर्यावरण-अनुकूल ई-रिक्शा सवारी एवं सामान ट्रांसपोर्ट सेवा। प्रो. शिव कुमार यादव।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
